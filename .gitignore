@@ -1,0 +1,15 @@
+#Ignore folders
+Archive/
+rsconnect/
+.Rproj.user
+
+#ignore files
+*.xlsx
+*.xlsm
+*.accdb
+.Rhistory
+*.csv
+*.rda
+.RData
+*.docx
+*.rds
